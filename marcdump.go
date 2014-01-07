@@ -5,7 +5,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/treerex/marc21"
+	"github.com/TreeRex/marc21"
 	"math"
 	"os"
 	"text/tabwriter"
